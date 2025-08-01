@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-color: hsl(315, 19%, 65%);
+}
+
+body{
+    width: 640;
+    margin: auto;
+}
+
+h1{
+    font-size: 48px;
+}
+
+img{
+    width: 200px;
+    /* height: 200px; */
+    border-radius: 100px;
+}
+
+p{
+    font-size: medium;
+}
